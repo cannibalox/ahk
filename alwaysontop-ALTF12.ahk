@@ -1,0 +1,1 @@
+!f12::Winset, AlwaysOnTop, toggle, A
