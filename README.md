@@ -9,7 +9,7 @@ keeps the window always on top with ALT F12
 For use with **Obsidian.md**
 a quick way to create reference blocks/transclusions from text selection with CTRL SHIFT X / CTRL V.<br>
 ### HOW:
-select a block of text and use CTR+SHIFT+X (or CTRL+SHIFT+C for copy) to cut the selected text into a NEW FILE in the /snippets directory of your vault (create the folder beforehand to avoid problems). The file will be named in the format : `yourvault/snippets/yyyyMM/xx_yyyyMMhhmmss-msec_%sourcewindowtitle%.md` and the link to the file is put in the clipboard, ready to be pasted in place or elsewhere.<br>
+select a block of text and use CTR+SHIFT+X (or CTRL+SHIFT+C for copy) to cut the selected text into a NEW FILE in the /snippets directory of your vault (create the folder beforehand to avoid problems). The file will be named in the format : `yourvault/snippets/yyyyMM/xx_yyyyMMhhmmss-msec_%sourcewindowtitle%.md` and the link to the file is put in the clipboard, ready to be pasted as an Obsidian transclusion (with the format ![[%yourfile%]]).<br>
 ### WHY:
 since Obsidian doesn't have block-level transclusions, this is a quick hack to get the same functionnality, but manually. Select your text, hit the shortcut, the selection is now a file that can be referrenced elsewhere and modified, thus making `clones` or `instances`.<br>
   
