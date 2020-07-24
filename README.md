@@ -1,11 +1,11 @@
-# ahk
+# AHK scripts
 
 scripts for AutoHotkey https://www.autohotkey.com/
 
-# alwaysontop-ALTF12.ahk : 
+## alwaysontop-ALTF12.ahk : 
 keeps the window always on top with ALT F12
 
-# odsbn-autosnipp.ahk : 
+## odsbn-autosnipp.ahk : 
 For use with **Obsidian.md**
 a quick way to create reference blocks/transclusions from text selection with CTRL SHIFT X / CTRL V.<br>
 **HOW :**<br>
