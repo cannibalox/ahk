@@ -5,7 +5,7 @@ scripts for AutoHotkey https://www.autohotkey.com/
 ## alwaysontop-ALTF12.ahk : 
 keeps the window always on top with ALT F12
 
-## list_folder_in_table
+## list_folder_in_table.ahk
 lists all files in a given folder in a table with sortable headers, source from Garry on the [authotkey forums](https://autohotkey.com/board/topic/55793-sort-by-date-modified-folder-view/
 ;+ 
 ![image](https://user-images.githubusercontent.com/4605693/114794997-ec93f080-9d8d-11eb-891b-f4b43ee35df1.png)
