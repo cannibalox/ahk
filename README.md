@@ -21,3 +21,7 @@ since Obsidian doesn't have block-level transclusions, this is a quick hack to g
   ![](https://forum.obsidian.md/uploads/default/original/2X/c/cb2bca62fee317a2f69c56c617e8cece69a6b1ae.gif)
   
   https://forum.obsidian.md/t/block-reference/674/114
+
+## savelistrecursive_bydate_filenameonly.ahk & savelistrecursive_bydate_filepath.ahk
+recursively parse a folder and generate a list of all files in ./MyList.txt
+
